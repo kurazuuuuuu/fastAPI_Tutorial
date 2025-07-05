@@ -1,0 +1,4 @@
+fastapi
+sqlalchemy
+uvicorm
+jinja2
